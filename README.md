@@ -59,6 +59,27 @@ A powerful Python application for Ubuntu Desktop that creates beautiful, custom 
 - **Educational tools** and learning environment shortcuts
 - **Gaming and entertainment** application launchers
 
+## 📸 Screenshots
+
+### GUI Interface
+![Desktop Icon Creator GUI](screenshots/desktop-icon-creator-main.png)
+
+### Color Picker
+![RGB Color Picker Popup](screenshots/color-picker.png)
+
+
+### Icon Management
+![Icon Management Tab](screenshots/manage.png)
+
+### Created Icons
+![Example Desktop Icons](screenshots/icons-show-apps.png)
+
+### Command Line Usage
+![CLI Example](screenshots/cli-usage.png)
+
+### Preview Icon
+![Preview Icon Image](screenshots/preview.png)
+
 ## 🚀 Quick Start
 
 ### 1. **Download & Setup**
@@ -139,14 +160,17 @@ The Desktop Icon Creator features a modern tabbed interface with two main sectio
 
 **Basic Examples:**
 ```bash
+# Inside the icon creator directory, activate the virtual environment
+source venv/bin/activate
+
 # Simple icon with inline script
-python3 desktop_icon_creator.py --text "Hello World" --script-content "echo 'Hello!'"
+python3 desktop_icon_creator.py --text "Hello World" --script-content "echo 'Hello there'"
 
 # Use existing script
 python3 desktop_icon_creator.py --text "My App" --script /path/to/script.sh
 
 # Multi-line text with line breaks
-python3 desktop_icon_creator.py --text "My\nApp" --script-content "echo 'Multi-line!'"
+python3 desktop_icon_creator.py --text "My\nApp" --script-content 'echo "Multi-line text"'
 ```
 
 **Advanced Examples:**
@@ -154,7 +178,7 @@ python3 desktop_icon_creator.py --text "My\nApp" --script-content "echo 'Multi-l
 # Gradient icon with custom styling
 python3 desktop_icon_creator.py \
   --text "Gradient\nApp" \
-  --script-content "echo 'Beautiful!'" \
+  --script-content 'echo "Beautiful colors"' \
   --gradient \
   --bg-color "#FF6B6B" \
   --gradient-color2 "#4ECDC4" \
